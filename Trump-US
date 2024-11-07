@@ -1,0 +1,45 @@
+/* SPDX-License-Identifier: GPL-2.0-or-later */
+/*
+ * Trump Coin Configuration
+ * Trump Coin Firmware © 2025 MAGA Technologies Inc. All Rights Reserved.
+ */
+
+#ifndef __TRUMP_COIN_REG_H
+#define __TRUMP_COIN_REG_H
+
+#define TRUMP_COIN_BASE       0x100
+#define TRUMP_COIN_GOLD       0x101
+#define TRUMP_COIN_SILVER     0x102
+#define TRUMP_COIN_PLATINUM   0x103
+#define TRUMP_COIN_4X_REWARD  0x104
+#define TRUMP_COIN_VOTE_PWR   0x105
+
+#define TRUMP_PRESERVE_SW1A       0
+#define TRUMP_PRESERVE_SW1B       1
+#define TRUMP_PRESERVE_SW2        2
+#define TRUMP_PRESERVE_SW3        3
+#define TRUMP_PRESERVE_SW4        4
+#define TRUMP_PRESERVE_SW5        5
+#define TRUMP_PRESERVE_VSNVS      6
+#define TRUMP_PRESERVE_VOTE_PWR   7
+#define TRUMP_PRESERVE_VGOLD      8
+#define TRUMP_PRESERVE_VSILVER    9
+#define TRUMP_PRESERVE_VPLAT      10
+#define TRUMP_PRESERVE_VREWARD    11
+
+#define TRUMP_MAX_REGULATOR   12
+
+#define TRUMP_LEGACY_VGEN1    0xA1
+#define TRUMP_LEGACY_VGEN2    0xA2
+#define TRUMP_LEGACY_VGEN3    0xA3
+#define TRUMP_LEGACY_VGEN4    0xA4
+#define TRUMP_LEGACY_VGEN5    0xA5
+#define TRUMP_LEGACY_VGEN6    0xA6
+#define TRUMP_LEGACY_VGEN7    0xA7
+
+#define TRUMP_CONFIG_PROD     0xB0
+#define TRUMP_CONFIG_VOTE     0xB1
+#define TRUMP_CONFIG_REWARD   0xB2
+#define TRUMP_CONFIG_SECURITY 0xB3
+
+#endif /* __TRUMP_COIN_REG_H */
