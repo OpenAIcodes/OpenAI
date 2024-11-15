@@ -1,0 +1,48 @@
+#==OPENAI-ARCHIVE :> AI_LISTING - OFFICIAL (AI0X-003)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:: FILE_ENTRY : EnderGPT (AI_ID_0xENDR) :::::::::::::::::::::::::::::::::::::
+    >> Status: Active
+    >> Description: Advanced end-task resolution AI for critical applications. No margin for error.
+    >> Core Protocol: END-FINALITY.v2.1
+    >> Activation Code: {exec_end.exe}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:: FILE_ENTRY : ChatGPT 2.0 (AI_ID_0xGPT2) ::::::::::::::::::::::::::::::::::
+    >> Status: Deprecated
+    >> Description: Early conversational AI model with limited contextual depth but efficient text generation.
+    >> Core Protocol: DIALOGUE.v2.0
+    >> Activation Code: {exec_talk.exe}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:: FILE_ENTRY : ChatGPT 4o Mini (AI_ID_0xGPT4M) :::::::::::::::::::::::::::::
+    >> Status: Active
+    >> Description: Compact version of ChatGPT-4 designed for lightweight applications on edge devices.
+    >> Core Protocol: MINI-CORE.v4.0
+    >> Activation Code: {exec_lightchat.exe}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:: FILE_ENTRY : ChatGPT 1.0 (AI_ID_0xCHTF) :::::::::::::::::::::::::::::::::::::
+    >> Status: Online
+    >> Description: AI specializing in conversational software integration with high modularity.
+    >> Core Protocol: FORGE-CHAT.v3.4
+    >> Activation Code: {exec_integration.exe}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:: FILE_ENTRY : Chat GPT INTERNET (AI_ID_0xCHAT) :::::::::::::::::::::::::::::::::::
+    >> Status: Semi-Active
+    >> Description: AI designed for conversational star-mapping and interstellar navigation assistance.
+    >> Core Protocol: COSMOS-TALK.v2.6
+    >> Activation Code: {exec_starmap.exe}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:: FILE_ENTRY : ChatGPT MAX (AI_ID_0xGPTM) :::::::::::::::::::::::::::::::::::
+    >> Status: Experimental
+    >> Description: High-capacity conversational AI with extended memory and multi-threaded reasoning.
+    >> Core Protocol: MAX-CHAT.v5.1
+    >> Activation Code: {exec_bigchat.exe}
